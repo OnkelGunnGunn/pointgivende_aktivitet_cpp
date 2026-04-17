@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/svenske_nummerplader.dir/src/main.cpp.o -o svenske_nummerplader

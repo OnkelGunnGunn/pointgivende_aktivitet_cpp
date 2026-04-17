@@ -1,0 +1,3 @@
+/home/gunse/dev/school/cpp/pointgivende_aktivitet/build/CMakeFiles/svenske_nummerplader.dir
+/home/gunse/dev/school/cpp/pointgivende_aktivitet/build/CMakeFiles/edit_cache.dir
+/home/gunse/dev/school/cpp/pointgivende_aktivitet/build/CMakeFiles/rebuild_cache.dir
